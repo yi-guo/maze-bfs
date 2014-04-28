@@ -56,7 +56,7 @@ d3.timer(function() {
 });
 
 var randomBase = Math.random() * 180 | 0;
-console.log(randomBase);
+
 function exploreFrontier() {
   if ((i0 = popRandom(frontier)) == null) return true;
 
