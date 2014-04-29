@@ -1,7 +1,7 @@
 Maze BFS solver
 ========
 
-A visualization of an agent solving a generated maze using breadth-first search
+A visualization of an agent solving a generated maze using breadth-first search. It resulted in a pretty trippy animation that's fun to watch.
 
 **Project link:** http://emilyhsia.github.io/maze-bfs/
 
