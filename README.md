@@ -33,3 +33,7 @@ Here are a few examples of the end result:
 
 [![screen-shot-2014-04-28-at-7-39-22-pm](http://i0.simplest-image-hosting.net/thumbnail/screen-shot-2014-04-28-at-7-39-22-pm.png)](http://simplest-image-hosting.net/png-0-screen-shot-2014-04-28-at-7-39-22-pm)
 
+
+**Example 4**
+
+[![screen-shot-2014-04-28-at-8-39-31-pm](http://i0.simplest-image-hosting.net/thumbnail/screen-shot-2014-04-28-at-8-39-31-pm.png)](http://simplest-image-hosting.net/png-0-screen-shot-2014-04-28-at-8-39-31-pm)
