@@ -31,7 +31,7 @@ Here are a few examples of the end result:
 
 **Example 3**
 
-[![screen-shot-2014-04-28-at-7-39-22-pm](http://i0.simplest-image-hosting.net/thumbnail/screen-shot-2014-04-28-at-7-39-22-pm.png)](http://simplest-image-hosting.net/png-0-screen-shot-2014-04-28-at-7-39-22-pm)
+[![screen-shot-2014-04-29-at-1-16-13-am](http://i0.simplest-image-hosting.net/thumbnail/screen-shot-2014-04-29-at-1-16-13-am.png)](http://simplest-image-hosting.net/png-0-screen-shot-2014-04-29-at-1-16-13-am)
 
 
 **Example 4**
